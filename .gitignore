@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+env/
+.venv/
+
+# Data Files (IMPORTANT: See note below)
+/data
+
+# IDE configuration files
+.vscode/
+.idea/
+
+
